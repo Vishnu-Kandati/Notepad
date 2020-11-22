@@ -27,7 +27,7 @@ Post - The POST HTTP method is used to create a document by passing the content 
 
 Put -  The PUT HTTP methos is used to edit the content of the document of the user which was edited before.
 
-Delete - The Delete HTTP method is used to delete the document. The params will be the docid which specifies the document to be deleted.
+Delete - The DELETE HTTP method is used to delete the document. The params will be the docid which specifies the document to be deleted.
 
 ### Live Deployment
 
