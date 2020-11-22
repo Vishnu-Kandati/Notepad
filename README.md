@@ -2,12 +2,15 @@
 
 
 Notepad is a generic text editor app where the user can create documents, add content and save documents for future use. 
+
 Our app provides features like Google authentication where the use can login into the app using his/her gmail.
 
 ### Technologies Used
 
 Python(Django Framework)
+
 Sqlite(Database)
+
 heroku
 
 ### Instructions
