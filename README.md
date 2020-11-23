@@ -25,7 +25,7 @@ Get -  The GET HTTP method is used to retrieve the documents from the database b
 Post - The POST HTTP method is used to create a document by passing the content entered by the user. A new document will be created in the database with a 
        newid(identification for document).
 
-Put -  The PUT HTTP methos is used to edit the content of the document of the user which was edited before.
+Put -  The PUT HTTP method is used to edit the content of the document of the user which was edited before.
 
 Delete - The DELETE HTTP method is used to delete the document. The params will be the docid which specifies the document to be deleted.
 
