@@ -28,8 +28,3 @@ Post - The POST HTTP method is used to create a document by passing the content 
 Put -  The PUT HTTP method is used to edit the content of the document of the user which was edited before.
 
 Delete - The DELETE HTTP method is used to delete the document. The params will be the docid which specifies the document to be deleted.
-
-### Live Deployment
-
-https://pervasivenotepad.herokuapp.com/
-
